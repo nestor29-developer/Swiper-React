@@ -1,0 +1,32 @@
+# compiled output
+/node_modules
+/dist
+/build
+/vendor
+
+# tests
+/coverage
+
+# OS
+.DS_Store
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode
+
+
+# dotenv
+.env
+.scannerwork
+report.json
+test-reporter.xml
+tmp/
+
+# node config
+.npmrc
